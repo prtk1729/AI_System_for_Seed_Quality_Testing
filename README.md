@@ -1,6 +1,6 @@
 # Corn Seeds Classification
 
-##  [Automated Seed Quality Testing System using GAN & Active Learning](https://arxiv.org/abs/2110.00777)
+##  [Automated Seed Quality Testing System using GAN( Generative Adversarial Network ) & Active Learning](https://arxiv.org/abs/2110.00777)
 
 This work was accepted in 9th International Conference on Pattern Recognition and Machine Intelligence
 
