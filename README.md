@@ -3,6 +3,7 @@
 ##  [Automated Seed Quality Testing System using GAN( Generative Adversarial Network ) & Active Learning](https://arxiv.org/abs/2110.00777)
 
 This work was accepted in 9th International Conference on Pattern Recognition and Machine Intelligence
+
 You can find the paper [here]([https://www.isical.ac.in/~miu/PREMI_DETAILS/premi21CFP_.pdf](https://arxiv.org/abs/2110.00777))
 
 [PReMI'21](https://www.isical.ac.in/~miu/PREMI_DETAILS/premi21CFP_.pdf)
