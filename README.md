@@ -2,7 +2,7 @@
 
 ##  [Automated Seed Quality Testing System using GAN & Active Learning](https://arxiv.org/abs/2110.00777)
 
-Accepted: 9th International Conference on Pattern Recognition and Machine Intelligence
+This work was accepted in 9th International Conference on Pattern Recognition and Machine Intelligence
 
 [PReMI'21](https://www.isical.ac.in/~miu/PREMI_DETAILS/premi21CFP_.pdf)
 
