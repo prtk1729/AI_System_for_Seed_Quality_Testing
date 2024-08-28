@@ -89,8 +89,6 @@ Classification model(resnet18)(updated)(e_200, optim-Adam,lr-0.001)
    Stochastic gradient descent with batch_size of 256 was used to update the parameters, starting with learning rate of 10−3, in conjunction with a momentum term of 0.1.
 
    We anneal the learning rate throughout training manually when the validation error plateaus.
-## Classifying the sack of images after doing segmentation to get the single seed image.
-   TODO
    
    
 ## Future  Work
